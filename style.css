@@ -1,12 +1,33 @@
+body{
+background-color: antiquewhite;
+
+}
+
 h1{
-color: cornflowerblue;  
+color: cornflowerblue;
+text-align: center;  
 }
 h2{
 color: dodgerblue;
+text-align: center;
 }
 p{
 color: deepskyblue;
+text-align: center;
 }
 p{
 color: deepskyblue;
+text-align: center;
     }
+footer{
+text-align: center;
+    }
+img{
+    display:block;
+    margin: auto;
+    width: 50%;
+
+}
+a:hover{
+    color:rgb(17, 0, 255);
+}
